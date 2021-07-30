@@ -68,3 +68,6 @@ a:visited {
     color: rgb(126, 126, 243);
 }
 
+iframe {
+    top: 50px;
+}
